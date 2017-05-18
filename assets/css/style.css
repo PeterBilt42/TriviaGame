@@ -1,0 +1,42 @@
+body {
+	background-image: url("../images/Marvel-Heroes.jpg");
+	/*ackground-color: black;*/
+	width: 100vw;
+	height: 100vh;
+	background-repeat: no-repeat;	
+}
+h1 {
+	background-color: teal;
+	text-align: center;
+	margin-top: 175px;
+  	max-width: 610px;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+
+/*img {
+	width: 100vw;
+	height: 100vh;
+}*/
+.main-button-container {
+  margin-top: 175px;
+  max-width: 610px;
+  margin-left: auto;
+  margin-right: auto;
+}
+h2 {
+	background-color: red;
+	text-align: center;
+	margin-top: 175px;
+  	max-width: 610px;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+div{
+	background-color: green;
+	text-align: center;
+	margin-top: 175px;
+  	max-width: 610px;
+  	margin-left: auto;
+  	margin-right: auto;
+}
